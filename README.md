@@ -15,11 +15,9 @@ git diff - indicate the difference between the present and past modifications
 
 
 "MY NEW CHANGES 123"
-<<<<<<< HEAD
-==================================
- 
-=======
 
 
 "This is my change in csc"
->>>>>>> csc
+
+
+"hguegfga545687656hguywrgfk------======="
